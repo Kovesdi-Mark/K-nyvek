@@ -1,0 +1,4 @@
+
+Warning: include(../layout.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\K-nyvek\Konyvek\Views\home\index.php on line 1
+
+Warning: include(): Failed opening '../layout.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\K-nyvek\Konyvek\Views\home\index.php on line 1
