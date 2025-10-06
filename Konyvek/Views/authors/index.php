@@ -1,4 +1,5 @@
-<?php include '../layout.php'; ?>
+<?php include '../Views/layout.php'; ?>
+
 <h1>Authors</h1>
 <a href="/authors/create">Add Author</a>
 <table>

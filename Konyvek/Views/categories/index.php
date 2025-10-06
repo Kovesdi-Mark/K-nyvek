@@ -1,4 +1,4 @@
-<?php include '../layout.php'; ?>
+<?php include '../Views/layout.php'; ?>
 <h1>Categories</h1>
 <a href="/categories/create">Add Category</a>
 <table>

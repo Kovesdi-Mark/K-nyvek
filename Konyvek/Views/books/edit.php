@@ -1,4 +1,5 @@
-<?php?>
+<?php include '../Views/layout.php'; ?>
+
 <h1>Edit Book</h1>
 <form method="post">
     Title: <input type="text" name="title" value="<?php echo $this->book_model->title; ?>"><br>

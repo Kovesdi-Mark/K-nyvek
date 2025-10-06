@@ -1,4 +1,4 @@
-<?php?>
+<?php include '../Views/layout.php'; ?>
 <h1>Add Book</h1>
 <form method="post">
     Title: <input type="text" name="title"><br>

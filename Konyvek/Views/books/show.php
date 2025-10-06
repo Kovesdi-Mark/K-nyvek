@@ -1,4 +1,5 @@
-<?php?>
+<?php include '../Views/layout.php'; ?>
+
 <h1>
     <?php echo $book['title']; ?>
 </h1>

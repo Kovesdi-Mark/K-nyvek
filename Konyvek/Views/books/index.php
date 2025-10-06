@@ -1,4 +1,5 @@
-<?php?>
+<?php include '../Views/layout.php'; ?>
+
 <h1>Books</h1>
 <a href="/books/create">Add Book</a>
 

@@ -1,4 +1,5 @@
-<?php include '../layout.php'; ?>
+<?php include '../Views/layout.php'; ?>
+
 <h1>
     <?php echo $this->author_model->name; ?>
 </h1>

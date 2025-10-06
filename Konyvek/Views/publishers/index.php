@@ -1,4 +1,4 @@
-<?php include '../layout.php'; ?>
+<?php include '../Views/layout.php'; ?>
 <h1>Publishers</h1>
 <a href="/publishers/create">Add Publisher</a>
 <table>
